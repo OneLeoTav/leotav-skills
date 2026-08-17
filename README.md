@@ -59,6 +59,14 @@ To update later:
 
 Paste in a decision you're about to make, or an argument you believe, and say **"poke holes in this."** Watch it steelman you first, then find the crux you were avoiding.
 
+Five things it does that a yes-man won't:
+
+- **Steelman, then strike.** *"Poke holes in this go-to-market plan."* It rebuilds your plan in its strongest form first, then names the single assumption that sinks it — instead of nitpicking the easy stuff.
+- **Find the crux.** *"Challenge me on this architecture decision."* It isolates the one load-bearing assumption the whole choice rests on, and surfaces the trade-off you were stepping around.
+- **Catch the over-correction.** *"I'm changing this to fix a problem where the system does too little."* It flips the question — *"and now, can it do too much? how far?"* A fix that only models the failure you're correcting often overshoots the other way, and no one tests that direction.
+- **Quantify a vague claim.** *"This change clearly improves quality."* It pushes back — *"compared to what, and by how much? If the effect is smaller than your measurement noise, it's a coin flip, not an improvement."*
+- **Expose a self-cancelling argument.** *"We'll tighten the rule, and add an exception to cover the cases we'd lose."* It shows the two halves work against each other: the cases the exception is meant to save are the same ones the tightening removes.
+
 ## License
 
 [MIT](LICENSE) · by [Léo Tavernier](https://github.com/OneLeoTav)
