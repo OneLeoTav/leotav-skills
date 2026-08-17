@@ -1,7 +1,7 @@
 {
   "$schema": "https://json.schemastore.org/claude-code-plugin.json",
   "name": "critical-thinking",
-  "description": "Rigorous intellectual sparring partner — steelman, crux-hunting, anti-sycophancy. Use to debate, stress-test a thesis, poke holes in an argument, or play devil's advocate.",
+  "description": "A rigorous intellectual sparring partner that argues back, not a yes-man. Steelman, crux-hunting, anti-sycophancy. Use to debate, stress-test a thesis, poke holes in an argument, or play devil's advocate.",
   "version": "1.0.0",
   "author": {
     "name": "Léo Tavernier",

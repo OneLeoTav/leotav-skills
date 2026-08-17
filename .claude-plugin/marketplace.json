@@ -10,7 +10,7 @@
     {
       "name": "critical-thinking",
       "source": "./plugins/critical-thinking",
-      "description": "Rigorous intellectual sparring partner — steelman, crux-hunting, anti-sycophancy. Use to debate, stress-test a thesis, poke holes in an argument, or play devil's advocate.",
+      "description": "A rigorous intellectual sparring partner that argues back, not a yes-man. Steelman, crux-hunting, anti-sycophancy. Use to debate, stress-test a thesis, poke holes in an argument, or play devil's advocate.",
       "category": "productivity",
       "keywords": ["critical-thinking", "reasoning", "debate", "devils-advocate", "steelman", "socratic"],
       "license": "MIT"
