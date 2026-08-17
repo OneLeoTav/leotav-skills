@@ -1,0 +1,19 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "leotav-skills",
+  "owner": {
+    "name": "Léo Tavernier",
+    "url": "https://github.com/OneLeoTav"
+  },
+  "description": "Skills by Léo Tavernier for Claude Code.",
+  "plugins": [
+    {
+      "name": "critical-thinking",
+      "source": "./plugins/critical-thinking",
+      "description": "Rigorous intellectual sparring partner — steelman, crux-hunting, anti-sycophancy. Use to debate, stress-test a thesis, poke holes in an argument, or play devil's advocate.",
+      "category": "productivity",
+      "keywords": ["critical-thinking", "reasoning", "debate", "devils-advocate", "steelman", "socratic"],
+      "license": "MIT"
+    }
+  ]
+}
