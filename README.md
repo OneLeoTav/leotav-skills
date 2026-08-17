@@ -57,7 +57,7 @@ To update later:
 
 ## Try it
 
-Paste in a decision you're about to make, or an argument you believe, and say **"poke holes in this."** Watch it steelman you first, then find the crux you were avoiding.
+Two ways in: call it explicitly (*"use the critical-thinking skill on this"* or `/critical-thinking:critical-thinking`), or just start a real argument — it also triggers on cues like *"steelman this,"* *"challenge me on this,"* or *"poke holes in this."* Either way, paste in a decision you're about to make or a belief you hold, and it'll reconstruct your position at its strongest first, then go after the crux you were avoiding.
 
 Five things it does that a yes-man won't:
 
